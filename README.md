@@ -2,4 +2,5 @@ A Java/Kotlin engineer, and also an occasional [*Project Euler*](https://project
 
 ![](https://projecteuler.net/profile/andrewbass.png)
 
-[Publications](https://habrahabr.ru/users/unix_junkie/topics/) (in Russian)
+- _Stack Overflow_ [profile](https://stackoverflow.com/users/1343979/bass)
+- [Publications](https://habrahabr.ru/users/unix_junkie/topics/) (in Russian)
